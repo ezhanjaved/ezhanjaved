@@ -3,13 +3,13 @@
 Full Stack Software Engineer building scalable SaaS products,  
 with a strong focus on systems, automation, and applied AI.
 
-I enjoy working close to real problems — designing architectures, automating workflows, and experimenting with reinforcement learning in simulated environments.
+I enjoy working close to real problems designing architectures, automating workflows, and experimenting with reinforcement learning in simulated environments.
 
 ---
 
-## 🚀 What I’m Working On
+## What I’m Working On?
 
-### 🧠 Locanize — Local SEO SaaS (Founder & Engineer)
+### Locanize — Local SEO SaaS (Founder & Engineer)
 A full-scale Local SEO platform built to automate audits, tracking, and competitive insights for businesses.
 
 **Highlights**
@@ -20,7 +20,7 @@ A full-scale Local SEO platform built to automate audits, tracking, and competit
 
 ---
 
-### 🤖 RL Playground — Reinforcement Learning Sandbox
+### RL Playground — Reinforcement Learning Sandbox
 An experimental environment to explore agent training in simulated worlds.
 
 **Focus Areas**
@@ -55,14 +55,15 @@ SaaS Architecture, Web Automation, SEO Systems, DevOps
 
 ## ✍️ Writing & Articles
 
-I also write about:
-- Software engineering & systems thinking  
-- SEO, automation, and product growth  
-- AI, reinforcement learning, and experimentation  
+I write about software, AI, game engines, optimization, tech culture, and more.
 
-📖 **Read my writing here:**  
-- Blog: _(link coming soon)_  
-- Articles: _(Medium / Substack / personal site)_  
+📖 **Featured Articles**
+- **Reinforcement Learning, Game Theory, and the Limits of Optimization**  
+  https://medium.com/@ezhanwrites169/reinforcement-learning-game-theory-and-the-limits-of-optimization-9c67f2a84735
+- **Tech Tramp Tangle — Elon Musk, Twitter & Culture**  
+  https://medium.com/@ezhanwrites169/tech-tramp-tangle-elon-musk-twitter-c17c3629f590
+- **Unity vs Unreal Engine — Battle of “U”**  
+  https://medium.com/@ezhanwrites169/unity-vs-unreal-engine-battle-of-u-1a991b08f635
 
 ---
 
