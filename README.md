@@ -10,6 +10,7 @@ I enjoy working close to real problems designing architectures, automating workf
 ## What I’m Working On?
 
 ### Locanize — Local SEO SaaS (Founder & Engineer)
+🔗 https://www.locanize.com 
 A full-scale Local SEO platform built to automate audits, tracking, and competitive insights for businesses.
 
 **Highlights**
