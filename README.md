@@ -32,6 +32,19 @@ An experimental environment to explore agent training in simulated worlds.
 
 ---
 
+### ZEDGE — 2D AI-Driven Web Game (Live)
+🔗 Live: https://ai-frontend-theta.vercel.app/
+
+A deployed 2D browser-based game built with Phaser.js, integrating reinforcement learning agents for in-game decision making.
+
+**Highlights**
+- Real-time gameplay mechanics using Phaser.js  
+- FastAPI backend managing environment state and agent training  
+- Implemented reinforcement learning agents using Q-Learning and PPO  
+- Fine-tuned GPT-2 to generate dynamic trivia and in-game content  
+
+---
+
 ## 🛠 Tech Stack
 
 **Languages**  
