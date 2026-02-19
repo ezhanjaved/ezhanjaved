@@ -1,9 +1,8 @@
 # Hi, I’m Ezhan 👋
 
-Full Stack Software Engineer building scalable SaaS products,  
-with a strong focus on systems, automation, and applied AI.
+Full Stack Software Engineer building scalable SaaS products, with a strong focus on systems, automation, and applied AI.
 
-I enjoy working close to real problems designing architectures, automating workflows, and experimenting with reinforcement learning in simulated environments.
+I enjoy tackling real problems through system design and automation, and experimenting with reinforcement learning in simulated environments, with a strong interest in how reinforcement learning and game theory intersect.
 
 ---
 
