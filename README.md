@@ -74,6 +74,8 @@ I write about software, AI, game engines, optimization, tech culture, and more.
 📖 **Featured Articles**
 - **Reinforcement Learning, Game Theory, and the Limits of Optimization**  
   https://medium.com/@ezhanwrites169/reinforcement-learning-game-theory-and-the-limits-of-optimization-9c67f2a84735
+- **Q-Learning For Training A Bot To Walk Straight In 3D Environment**  
+  https://www.linkedin.com/pulse/q-learning-training-bot-walk-straight-3d-environment-ezhan-javed-8nlef/
 - **Tech Tramp Tangle — Elon Musk, Twitter & Culture**  
   https://medium.com/@ezhanwrites169/tech-tramp-tangle-elon-musk-twitter-c17c3629f590
 - **Unity vs Unreal Engine — Battle of “U”**  
