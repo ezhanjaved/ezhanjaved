@@ -21,14 +21,24 @@ A full-scale Local SEO platform built to automate audits, tracking, and competit
 
 ---
 
-### RL Playground — Reinforcement Learning Sandbox
-An experimental environment to explore agent training in simulated worlds.
+### RL3 — No-Code Reinforcement Learning Playground
 
-**Focus Areas**
-- 3D environments with React Three Fiber & Rapier  
-- PPO-based training pipeline using FastAPI & PyBullet  
-- Reward shaping, environment resets, and benchmarking  
-- Stable-Baselines3 for policy optimization  
+🔗 [View Project](https://rl-playground-beta.vercel.app/)
+🎬 [Watch Demo](https://youtu.be/V5d99hOM5ew?si=3tmVo07-YfdBBilP)
+
+Emojis: https://emoj.info/video
+
+A visual reinforcement learning platform that enables users to design environments, build reward functions, train agents, and run inference without writing RL code.
+
+**Highlights**
+
+* Built a drag-and-drop 3D environment editor using React, Three.js, and Rapier
+* Developed a node-based reward graph for visually defining rewards, conditions, and terminal states
+* Implemented browser-based tabular Q-learning with state discretization and downloadable Q-tables
+* Built a server-side PPO training pipeline using FastAPI, PyBullet, Gymnasium, and Stable-Baselines3
+* Added dynamic observation and action spaces based on agent capabilities
+* Implemented action masking, environment randomization, model retraining, and real-time WebSocket inference
+* Supports multi-agent policy playback, manual agent control, and reusable trained models
 
 ---
 
