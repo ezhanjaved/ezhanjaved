@@ -26,8 +26,6 @@ A full-scale Local SEO platform built to automate audits, tracking, and competit
 🔗 [View Project](https://rl-playground-beta.vercel.app/)
 🎬 [Watch Demo](https://youtu.be/V5d99hOM5ew?si=3tmVo07-YfdBBilP)
 
-Emojis: https://emoj.info/video
-
 A visual reinforcement learning platform that enables users to design environments, build reward functions, train agents, and run inference without writing RL code.
 
 **Highlights**
