@@ -101,6 +101,6 @@ I write about software, AI, game engines, optimization, tech culture, and more.
 
 ## 📫 Connect
 
-- GitHub: https://github.com/your-username  
-- LinkedIn: https://linkedin.com/in/your-profile  
+- GitHub: https://github.com/ezhanjaved 
+- LinkedIn: https://www.linkedin.com/in/ezhan-javed-627626233/
 - Email: ezhanwrites169@gmail.com
