@@ -43,7 +43,7 @@ A visual reinforcement learning platform that enables users to design environmen
 
 ---
 
-## Craftax Agents — LLM + Reinforcement Learning Research
+## Sentience (Craftax Agents) — LLM + Reinforcement Learning Research
 
 🔗 *Coming Soon*
 
