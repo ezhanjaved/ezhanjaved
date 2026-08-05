@@ -85,19 +85,19 @@ JavaScript • TypeScript • Python • PHP • SQL
 
 ### Backend
 
-FastAPI • Node.js • Express • Celery • RabbitMQ • Redis
+FastAPI • Node.js • Express • Celery • RabbitMQ • Redis • Django  • WebSockets
 
 ### Frontend
 
-React • React Three Fiber • Phaser.js
+React • React Three Fiber • Phaser.js • Zustand
 
 ### AI / ML
 
-Large Language Models • LangChain • LangGraph • RAG • Vector Databases • Reinforcement Learning (Q-Learning, PPO, DQN, TRPO)
+Large Language Models • LangChain • LangGraph • RAG • MCP • Vector Databases • Reinforcement Learning (Q-Learning, PPO, DQN, TRPO)
 
-### Databases
+### Data
 
-PostgreSQL • MySQL • MongoDB
+PostgreSQL • MySQL • MongoDB • Pgvector • Redis • Cloudflare R2
 
 ### Other
 
